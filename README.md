@@ -14,6 +14,27 @@ java SWT + mysql
 2. 需要mysql数据库  端口3306 账号root 密码root 数据库名diskbill
 3. jdk 1.7+
 
+### 示例图片:
+登录:
+![Alt](https://github.com/LIAILU526214/deskbill/blob/master/exampleImg/1571889866.jpg)
+
+注册:
+![Alt](https://github.com/LIAILU526214/deskbill/blob/master/exampleImg/1571889913(1).jpg)
+
+主界面:
+![Alt](https://github.com/LIAILU526214/deskbill/blob/master/exampleImg/1571889953.jpg)
+
+账单查询:
+![Alt](https://github.com/LIAILU526214/deskbill/blob/master/exampleImg/1571889997(1).jpg)
+
+账单统计:
+![Alt](https://github.com/LIAILU526214/deskbill/blob/master/exampleImg/1571890078(1).png)
+
+![Alt](https://github.com/LIAILU526214/deskbill/blob/master/exampleImg/1571890110(1).png)
+
+账单分类编辑:
+![Alt](https://github.com/LIAILU526214/deskbill/blob/master/exampleImg/1571889979(1).jpg)
+
 #### 使用说明
 
 1. xxxx
