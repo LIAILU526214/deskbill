@@ -49,7 +49,7 @@ java SWT + mysql
 4. 新建 Pull Request
 
 
-![Alt](https://www.lutongli.com/images/GZH.png)
+![Alt](https://github.com/LIAILU526214/deskbill/blob/master/exampleImg/GZH.png)
 
 #### 备注
 
